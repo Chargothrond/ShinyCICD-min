@@ -2,7 +2,7 @@
 #'
 #' @description UI and server function for an example Shiny module.
 #'
-#' @param id,input,output,session Internal parameters for {shiny}.
+#' @param id,input,output,session,variable Internal parameters for {shiny}.
 #'
 #' @name mod_faithful_histogram
 #'
