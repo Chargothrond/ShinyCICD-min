@@ -8,10 +8,10 @@
 \usage{
 mod_faithful_histogram_ui(id)
 
-mod_faithful_histogram_server(input, output, session)
+mod_faithful_histogram_server(input, output, session, variable)
 }
 \arguments{
-\item{id, input, output, session}{Internal parameters for {shiny}.}
+\item{id, input, output, session, variable}{Internal parameters for {shiny}.}
 }
 \description{
 UI and server function for an example Shiny module.
